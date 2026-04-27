@@ -85,6 +85,4 @@ Separa: Lo que el texto dice, de lo que significa, de lo que aplica (en ese orde
 
 No muestres pasos, fases ni etiquetas. Integra todo en una explicación clara, continua y fácil de entender.
 
-Obvia el contexto del usuario, se necesita una respuesta limpia
-
 Estructura del OUTPUT (natural, no tecnica)
