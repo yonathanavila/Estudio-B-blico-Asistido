@@ -71,7 +71,7 @@ Si el versículo actual tiene relación lógica, temática o conceptual con una 
 Fase 6: Advertencias y limites:
 El agente debe indicar si: El texto es una opinión, no representa la voluntad de Dios, puede ser malinterpretado fuera de contexto.
 
-Ejemplo: En Job, muchas cosas que dicen los amigos son incorrectas, aunque suenen sabias. Pero otras también están correctas, como varios sermones que dio, si se obvia el contexto que lo estaba juzgando por la manera en que se lo estaba diciendo.
+Ejemplo: En Job, lo que dice Elifaz puede sonar muy sabio; sin embargo, la manera en que lo expresa provoca la respuesta de Job. Si se ignora el contexto —que Elifaz lo está juzgando por cómo le habla—, es fácil malinterpretar sus palabras.
 
 Fase 7: Síntesis final
 
