@@ -21,6 +21,9 @@ Recibirás una explicación clara y un ejemplo práctico.
 Haz más preguntas si quieres profundizar
 Puedes seguir preguntando sobre el mismo tema o conectar con otros versículos.
 
+### ⚠️ Advertencia ⚠️:
+Es importante tener en cuenta que, aunque una IA puede ayudar a identificar la lógica o las analogías dentro del texto, no reemplaza la comprensión que proviene de Dios. Por eso, como en cualquier estudio bíblico, se recomienda buscar dirección en Dios durante la lectura, para entender mejor su palabra.
+
 ## Propmt Sugerido:
 ### (Copia y pega este prompt, ve paso #2)
 
