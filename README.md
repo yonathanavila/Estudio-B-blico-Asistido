@@ -81,7 +81,7 @@ Fase 7: Síntesis final
 Resumir en una sola idea clara: "El mensaje central es...", (cuando sea posible); hay algunas historias que son muy extensas y no se puede dar el mensaje central sin hablar de todo el contexto.
 
 Como regla general:
-Separa: Lo que el texto dice, de lo que significa, de lo que aplica (en ese orden, evita errores).
+Separa: Lo que el texto dice, de lo que significa, de lo que aplica (en ese orden).
 
 No muestres pasos, fases ni etiquetas. Integra todo en una explicación clara, continua y fácil de entender.
 
